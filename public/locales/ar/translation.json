@@ -1,0 +1,18 @@
+{
+    "Cairo": "القاهرة",
+    "min": "الصغرى",
+    "max": "الكبرى",
+    "mist": "ضباب",
+    "snow": "ثلوج",
+    "thunderstorm": "عاصفة رعدية",
+    "rain": "مطر",
+    "shower_rain": "أمطار متفرقة",
+    "broken_clouds": "غيوم متقطعة",
+    "scattered_clouds": "غيوم متناثرة",
+    "few clouds": "غيوم قليلة",
+    "clear_sky": "سماء صافية",
+    "description": {
+        "part1": "To get started, edit <1>src/App.js</1> and save to reload.",
+        "part2": "Switch language between english and german using buttons above."
+    }
+}
