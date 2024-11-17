@@ -6,9 +6,9 @@
     "snow": "ثلوج",
     "thunderstorm": "عاصفة رعدية",
     "rain": "مطر",
-    "shower_rain": "أمطار متفرقة",
-    "broken_clouds": "غيوم متقطعة",
-    "scattered_clouds": "غيوم متناثرة",
+    "shower rain": "أمطار متفرقة",
+    "broken clouds": "غيوم متقطعة",
+    "scattered clouds": "غيوم متناثرة",
     "few clouds": "غيوم قليلة",
     "clear_sky": "سماء صافية",
     "description": {
